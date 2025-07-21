@@ -129,20 +129,3 @@ pytest-django>=4.5.2
 djangorestframework>=3.15.0
 python-dotenv>=1.0.1
 ```
-
----
-
-## ❗ Limitations & Assumptions
-- Only backend APIs are implemented; no frontend integration.
-- All required fields must be present in the request body.
-- Database credentials are managed via environment variables.
-
----
-
-## 📧 Submission Checklist
-- [x] Source code zipped or on GitHub
-- [x] Postman collection exported and uploaded
-- [x] README file complete and uploaded
-- [x] Screen recording uploaded and named correctly
-- [x] Email with all links ready
-
